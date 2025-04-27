@@ -9,16 +9,16 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "BOTNAME": "bbh-cyber-bot",
+  "PREFIX": "$",
   "react": "☠️",
   "OPERATOR": [
-    "",
+    "100014896964436",
     "100000959749712"
   ],
   "ADMINBOT": [
     "100000959749712",
-    ""
+    "100014896964436"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
