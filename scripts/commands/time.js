@@ -4,9 +4,9 @@ module.exports.config = {
   permssion: 0,
   prefix: true,
   credits: "nayan",
-  description: "( 𝙀𝙭𝙖𝙘𝙩 𝙩𝙞𝙢𝙚 & 𝙙𝙖𝙩𝙚 )",
+  description: "auto",
   category: "Time and Date",
-  usages: "( Exact time )",
+  usages: "auto",
   cooldowns: 0,
   dependencies: []
 };
