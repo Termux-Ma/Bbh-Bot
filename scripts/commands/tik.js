@@ -22,7 +22,7 @@ start: async function({ nayan, events, args }) {
   const { messageID, threadID } = events;
 
   
-  const { tikdown } = require("nayan-videos-downloader")
+  const { tikdown } = require("nayan-media-downloaders")
   const fs = require("fs");
   const axios = require("axios");
   const request = require("request");

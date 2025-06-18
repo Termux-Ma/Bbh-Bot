@@ -20,7 +20,7 @@
   "DESCRIPTION": "artificial intelligence is the future, and the future is here.",
   "allowInbox": false,
   "adminOnly": false,
-  "autoCreateDB": false,
+  "autoCreateDB": true,
   "encryptSt": true,
   "version": "4.0.0",
   "logs": {
