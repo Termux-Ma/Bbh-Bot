@@ -9,16 +9,16 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "bbh-cyber-bot",
+  "BOTNAME": "BBH-CYBER-BOT",
   "PREFIX": "$",
   "react": "😁",
   "OPERATOR": [
-    "100000967372029",
+    "100002475405736",
     "100000959749712"
   ],
   "ADMINBOT": [
     "100000959749712",
-    "100000967372029"
+    "100002475405736"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
